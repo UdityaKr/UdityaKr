@@ -1,4 +1,4 @@
-# Hi there, I'm Uditya Kumar👋
+# Hi there, I'm [Uditya Kumar]👋
 
 ### 📊 Data Analyst | SQL & Power BI Specialist
 I specialize in transforming raw data into actionable business insights. Currently building end-to-end projects that bridge the gap between technical data engineering and strategic decision-making.
